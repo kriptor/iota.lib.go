@@ -5,7 +5,7 @@ go:
   - 1.8.x
 
 install:
-- go get github.com/iotaledger/giota
+- go get github.com/kriptor/giota
 
 before_install:
 - go get -u github.com/alecthomas/gometalinter
